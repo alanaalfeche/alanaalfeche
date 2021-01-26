@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Engineer with a passion for Bioinformatics.</h3>
 
 - 🔭 I’m currently working towards my AWS database and AWS data analytics certification
-- 🌱 I’m learning Swift to build an iOS app for fun!
+- 🌱 I recently learned Swift and built a simple iOS app for fun! [Landmarks](https://github.com/alanaalfeche/Landmarks)
 - 👯 I’m looking to collaborate on anything bioinformatics related
-- 💬 Ask me anything about creating/managing data pipelines (Spark + AWS EMR, Airflow + Docker + Kubernetes + AWS EKS)
+- 💬 Ask me anything about creating/managing data pipelines
 - 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/alanaalfeche/)
